@@ -21,4 +21,5 @@ img.addEventListener("click",(e)=>{
 e.target.nextElementSibling.classList.add("remove")
 
 })
+
 })
